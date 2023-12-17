@@ -1,1 +1,3 @@
 # myhomepage
+
+masterブランチでなくmainブランチにすべて入っています
